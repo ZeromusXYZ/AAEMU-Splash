@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="res_custom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="res_custom.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Bitmap\Bitmap140.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Bitmap\Bitmap143.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Bitmap\Bitmap144.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Bitmap\Bitmap145.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Bitmap\Bitmap146.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Bitmap\Bitmap147.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Bitmap\Bitmap148.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Bitmap\Bitmap149.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Bitmap\Bitmap150.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Bitmap\Bitmap151.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Bitmap\Bitmap152.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Bitmap\Bitmap153.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Bitmap\Bitmap154.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Bitmap\Bitmap155.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Bitmap\Bitmap156.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Bitmap\Bitmap157.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Bitmap\Bitmap158.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Bitmap\Bitmap159.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Bitmap\Bitmap160.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\binary\161.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
