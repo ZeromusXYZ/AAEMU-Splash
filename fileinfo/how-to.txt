@@ -1,0 +1,15 @@
+Create resource file
+
+"BINARY" resource with name 161 contains position and size of the loading chunks that need to be drawn.
+It are 18 lines in total in the format  xPos, yPos, xSize, ySize
+
+Bitmap data
+19 resources containing the images to be used in 32bits ARGB format, the headertype MUST be BITMAPINFOHEADER (headersize = 40) for it to work correctly !!!
+Check https://en.wikipedia.org/wiki/BMP_file_format for more info.
+
+I got this result by exporting a file in GIMP as a .bmp 32bit ARGB format WITHOUT color data (see advanced settings when saving).
+After that open the .bmp in the default Windows Paint (not Paint 3D) and just save it again.
+
+Resource names are
+140 Initial Splash
+143-160 => Loading sections to draw
