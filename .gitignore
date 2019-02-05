@@ -1,7 +1,6 @@
 .vs/
-x64/Debug/
 Debug/
+Release/
 publish/
 .suo
-res_custom/.vs/res_custom/v15/.suo
 *.db
