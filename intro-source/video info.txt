@@ -1,0 +1,2 @@
+Needs to export to 720p (possibly other sizes allowed, not tested) in .AVI with VP80 codec (codec required)
+I used Powerpoint export, then format factory to make it into a avi, and VirtualDubMod_1_5_10_2 to re-encode in the correct codec.

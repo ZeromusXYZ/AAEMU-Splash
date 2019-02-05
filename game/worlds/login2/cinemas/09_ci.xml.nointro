@@ -1,0 +1,9 @@
+<Sequence Name="09_ci" MusicPatternName="" TimeOfDayName="" Flags="2064" StartTime="0" EndTime="0" RecordOriginQuat="1,0,0,0" RecordOriginTrans="0,0,0">
+ <Nodes>
+  <Node Id="0" Type="2" Name="Scene">
+   <Track ParamId="110" Flags="0" StartTime="0" EndTime="0">
+    <Key time="0" node="game/objects/machinima/avi/CI.avi" renderRect="0,0,1,1" cutRect="1" align="4"/>
+   </Track>
+  </Node>
+ </Nodes>
+</Sequence>
